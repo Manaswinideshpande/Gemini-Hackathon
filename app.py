@@ -4,8 +4,7 @@ from PIL import Image
 import io
 
 # Configure the Gemini API
-#GOOGLE_API_KEY = "AIzaSyACjfESZsGJIo5ZaTWhEz3HgoRrsvxUKk4"
-#genai.configure(api_key=GOOGLE_API_KEY)
+
 model = genai.GenerativeModel('models/gemini-1.0-pro-vision-latest')
 #Read the api key
 with open("API Key.txt", "r") as f:
