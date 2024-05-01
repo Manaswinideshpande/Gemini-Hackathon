@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Streamlit App</title>
+    <style>
+        /* Add custom CSS styling here */
+        /* For example: */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        .title {
+            font-size: 36px;
+            font-weight: bold;
+            color: #333;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        /* Add your custom CSS styles here */
+    </style>
+</head>
+<body>
+    <div class="title">IMAGE UNDERSTANDING AI-LIST OF ITEMS IN IMAGE</div>
+    <div class="code-area">You need to upload an Image in order to read</div>
+    <!-- Add your Streamlit app code here -->
+    <!-- You can embed your Streamlit app code directly or link to it -->
+</body>
+</html>
